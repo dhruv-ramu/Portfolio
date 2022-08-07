@@ -11,6 +11,7 @@
 ### This is my portfolio website - the tools I used to build this are
 - HTML5
 - CSS
+- JavaScript
 - ReactJS
 
 ### Credits
