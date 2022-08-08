@@ -82,7 +82,19 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-           
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/service"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineFundProjectionScreen
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Service
+              </Nav.Link>
+            </Nav.Item>
+
 
             <Nav.Item>
               <Nav.Link
