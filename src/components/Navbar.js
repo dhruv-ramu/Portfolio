@@ -13,6 +13,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
+import { BiDonateHeart } from "react-icons/bi";
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -85,10 +86,10 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/service"
+                to="src\components\Service"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineFundProjectionScreen
+                <BiDonateHeart
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Service
