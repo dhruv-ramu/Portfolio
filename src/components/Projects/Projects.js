@@ -14,10 +14,10 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="teal">Projects & Awards</strong>
+          My Recent <strong className="teal">Projects, Certifications & Awards</strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few works I've worked on recently.
+          Here are a few things I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -25,7 +25,7 @@ function Projects() {
               imgPath={CarboTrack}
               isBlog={false}
               title="CarboTrack"
-              description="CarboTrack is a web application that allows the user to track their carbon footprint based on electricity usage, transportation, and food consumption. I used tensorflow.js to allow for taking pictures of various items to determine their carbon footpring. The result can then be copied to the clipboard and shared through emojis. This was built in 24 hours' time and my team (NextGen) won second prize in SISHACK."
+              description="CarboTrack is a web application that allows the user to track their carbon footprint based on electricity usage, transportation, and food consumption. My team and I used tensorflow.js to allow for taking pictures of various items to determine their carbon footpring. The result can then be copied to the clipboard and shared through emojis. This was built in 24 hours' time and my team (NextGen) won second prize in SISHACK."
               ghLink="https://github.com/Dhruvsr/CarboTrack"
               demoLink="https://dhruv.is-from.space/CarboTrack_Demo.MP4"
             />
@@ -47,7 +47,7 @@ function Projects() {
               imgPath={Aprendiz}
               isBlog={false}
               title="Aprendiz"
-              description="A Chrome Extension that changes certain words on websites (such as wikipedia.com) to help students learn multiple languages such as Spanish, French,Kannada, German and Dutch. Expand your vocabulary in a particular language while browsing the web, and subconciously picking up a language. The extension is made up of JavaScript and HTML, and its relatively easy-to-use interface makes it effortless to add more language support.
+              description="Aprendiz is a Chrome Extension that changes certain words on websites (such as wikipedia.com) to help students learn multiple languages such as Spanish, French,Kannada, German and Dutch. Expand your vocabulary in a particular language while browsing the web, and subconciously picking up a language. The extension is made up of JavaScript and HTML, and its relatively easy-to-use interface makes it effortless to add more language support.
               "
               ghLink="https://github.com/Dhruvsr/Aprendiz"
               demoLink="https://dhruv.is-from.space/2021-10-10-20-08-04.mov"
