@@ -1,6 +1,6 @@
 <h2 align="center">
   Dhruv's Portfolio Website<br/>
-  <a href="http://dhruvsr.github.io" target="_blank">Link to Website</a>
+  <a href="http://dhruvsr.github.io" target="_blank">Link to Website [Deprecated Link]</a>
 </h2>
 <div align="center">
   <img alt="Dhruv's mockup goes here" src="public\images\DhruvPortfolioMockup1.png" />
